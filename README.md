@@ -19,7 +19,7 @@ MyStack uses a custom MyArrayList that extends AbstractList and implements a Lis
 
 ## General info
 - MyStack utilizes a custom MyArrayList with generics to create a stack by composition (instead of inheriting directly from the MyArrayList class).
-- The main() method tests the stack by creating a MyStack object of type String and testing the push(), peek(), isEmpty(), toString(), size(), and pop() methods.
+- The main() method tests the stack by creating a MyStack object that stores the String data type and testing the push(), peek(), isEmpty(), toString(), size(), and pop() methods.
 - This was part of Lab 5 in my Java Programming and Data Structures course.
 
 ## Author
