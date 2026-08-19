@@ -11,7 +11,6 @@ MyStack uses a custom MyArrayList that extends AbstractList and implements a Lis
 * [Minimum hardware requirements](#Minimum-hardware-requirements)
 * [Screenshots](#Screenshots)
 * [Project status](#Project-status)
-* [Room for improvement](#Room-for-improvement)
 * [Release date](#Release-date)
 * [Sources](#Sources)
 * [Works Cited](#Works-Cited)
@@ -43,18 +42,17 @@ I wrote the source code in Notepad in Windows 11, compiled it in the Command Pro
 To compile these .java files into Java bytecode, you can use the command line like I did or your favorite IDE of choice.
 
 ## Usage
-- 
+- Type java MyStack in the command line after compiling it, and the output should be the same as the screenshot below.
 
 ## Minimum hardware requirements
 - Although I developed this on a fairly recent Windows 11 PC, this program should run comfortably on any working computer with sufficient processing power, RAM, a monitor manufactured within the past 15-20 years, and an Internet connection to download the .java source files.
 - I used JDK version 21 to compile this source code, so your computer will have to be capable of installing and running that version of the JDK and its corresponding built-in JRE.
 
 ## Screenshots
-![A screen capture of the SIS program after adding two students.](ExampleSIS_Run.png)
+![A screen capture of the output of the MyStack program.](MyStackProgramRun.png)
 
 ## Project status
-
-## Room for improvement
+- This program met or exceeded the requirements for this part of Lab 5, so I'm releasing my solution on GitHub.
 
 ## Release date
 19 Aug, 2026
