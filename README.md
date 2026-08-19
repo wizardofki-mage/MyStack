@@ -32,7 +32,7 @@ MyStack uses a custom MyArrayList that extends AbstractList and implements a Lis
 - My implementation for List, AbstractList, and MyArrayList closely follows what is in our textbook (Liang, 2024) since they use generics but not Comparable or an iterator.
 - MyArrayList methods are called within the methods for MyStack for it to accomplish its tasks.
 - For example, the MyArrayList add() method is used to push() objects onto the stack, the MyArrayList remove(size -1) method is used to pop() objects from the stack, etc.
-- I also followed a suggestion in the third chapter on sorted and unsorted lists in Object-Oriented Data Structures by N. Dale, D.T. Joyce, and C. Weems on returning a copy of the object that was gotten or removed from a list to ensure information hiding and better encapsulation.
+- I also followed a suggestion in the third chapter on sorted and unsorted lists in *Object-Oriented Data Structures* by N. Dale, D.T. Joyce, and C. Weems on returning a copy of the object that was gotten or removed from a list to ensure information hiding and better encapsulation.
 
 ## Technologies:
 I wrote the source code in Notepad in Windows 11, compiled it in the Command Prompt using the javac command, and ran it using the java command.
