@@ -28,7 +28,7 @@ MyStack uses a custom MyArrayList that extends AbstractList and implements a Lis
 ## Programming approaches
 - I came up with the Stack interface and the MyStack class on my own after reading the respective section in our textbook (Liang, 2024).
 - The MyStack implementation uses an internal MyArrayList since pushing and popping happen at the end of the ArrayList (the top of the stack).
-- So, an ArrayList is a more efficient data structure to use in creating a stack than a LinkedList since interaction with the stack only happens at the top of that stack.
+- So, an ArrayList is a more efficient data structure to use in creating a stack than a LinkedList since interaction with the stack only happens at the top of that stack, and these operations are O(1) with an ArrayList.
 - My implementation for List, AbstractList, and MyArrayList closely follows what is in our textbook (Liang, 2024) since they use generics but not Comparable or an iterator.
 - MyArrayList methods are called within the methods for MyStack for it to accomplish its tasks.
 - For example, the MyArrayList add() method is used to push() objects onto the stack, the MyArrayList remove(size -1) method is used to pop() objects from the stack, etc.
