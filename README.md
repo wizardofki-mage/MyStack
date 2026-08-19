@@ -47,7 +47,7 @@ To compile this .java file into Java bytecode, you can use the command line like
 - Type java MyStack in the command line after compiling it, and the output should be the same as the screenshot below.
 
 ## Minimum hardware requirements
-- Although I developed this on a fairly recent Windows 11 PC, this program should run comfortably on any working computer with sufficient processing power, RAM, a monitor manufactured within the past 15-20 years, and an Internet connection to download the .java source files.
+- Although I developed this on a fairly recent Windows 11 PC, this program should run comfortably on any working computer with sufficient processing power, RAM, a monitor manufactured within the past 15-20 years, and an Internet connection to download the .java source file.
 - I used JDK version 21 to compile this source code, so your computer will have to be capable of installing and running that version of the JDK and its corresponding built-in JRE.
 
 ## Screenshots
@@ -60,9 +60,9 @@ To compile this .java file into Java bytecode, you can use the command line like
 19 Aug, 2026
 
 ## Works Cited
-- Dale, Nell, Joyce, Daniel T., and Weems, Chip. Object-Oriented Data Structures Using Java. Jones and Bartlett Learning, 2002.
+- Dale, Nell, Joyce, Daniel T., and Weems, Chip. *Object-Oriented Data Structures Using Java*. Jones and Bartlett Learning, 2002.
 
-- Liang, Y. Daniel. Introduction to Java Programming and Data Structures. 13th ed., Pearson Education Limited, 2024.
+- Liang, Y. Daniel. *Introduction to Java Programming and Data Structures*. 13th ed., Pearson Education Limited, 2024.
 
 ## Acknowledgements
 - Prof. Dr. Ibrahim AL-Agha is the project advisor.
