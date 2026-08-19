@@ -12,7 +12,6 @@ MyStack uses a custom MyArrayList that extends AbstractList and implements a Lis
 * [Screenshots](#Screenshots)
 * [Project status](#Project-status)
 * [Release date](#Release-date)
-* [Sources](#Sources)
 * [Works Cited](#Works-Cited)
 * [Acknowledgements](#Acknowledgements)
 * [Contact](#Contact)
