@@ -41,7 +41,7 @@ MyStack uses a custom MyArrayList that extends AbstractList and implements a Lis
 I wrote the source code in Notepad in Windows 11, compiled it in the Command Prompt using the javac command, and ran it using the java command.
 
 ## Setup
-To compile these .java files into Java bytecode, you can use the command line like I did or your favorite IDE of choice.
+To compile this .java file into Java bytecode, you can use the command line like I did or your favorite IDE of choice.
 
 ## Usage
 - Type java MyStack in the command line after compiling it, and the output should be the same as the screenshot below.
